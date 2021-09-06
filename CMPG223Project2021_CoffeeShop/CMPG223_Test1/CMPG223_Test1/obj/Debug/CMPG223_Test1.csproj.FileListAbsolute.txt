@@ -1,0 +1,12 @@
+C:\Users\arman\Source\Repos\MrNiffler\CMPG223Project2021_CoffeeShop\CMPG223_Test1\CMPG223_Test1\bin\Debug\CMPG223_Test1.exe.config
+C:\Users\arman\Source\Repos\MrNiffler\CMPG223Project2021_CoffeeShop\CMPG223_Test1\CMPG223_Test1\bin\Debug\CMPG223_Test1.exe
+C:\Users\arman\Source\Repos\MrNiffler\CMPG223Project2021_CoffeeShop\CMPG223_Test1\CMPG223_Test1\bin\Debug\CMPG223_Test1.pdb
+C:\Users\arman\Source\Repos\MrNiffler\CMPG223Project2021_CoffeeShop\CMPG223_Test1\CMPG223_Test1\obj\Debug\CMPG223_Test1.csproj.AssemblyReference.cache
+C:\Users\arman\Source\Repos\MrNiffler\CMPG223Project2021_CoffeeShop\CMPG223_Test1\CMPG223_Test1\obj\Debug\CMPG223_Test1.Properties.Resources.resources
+C:\Users\arman\Source\Repos\MrNiffler\CMPG223Project2021_CoffeeShop\CMPG223_Test1\CMPG223_Test1\obj\Debug\CMPG223_Test1.csproj.GenerateResource.cache
+C:\Users\arman\Source\Repos\MrNiffler\CMPG223Project2021_CoffeeShop\CMPG223_Test1\CMPG223_Test1\obj\Debug\CMPG223_Test1.csproj.CoreCompileInputs.cache
+C:\Users\arman\Source\Repos\MrNiffler\CMPG223Project2021_CoffeeShop\CMPG223_Test1\CMPG223_Test1\obj\Debug\CMPG223_Test1.exe
+C:\Users\arman\Source\Repos\MrNiffler\CMPG223Project2021_CoffeeShop\CMPG223_Test1\CMPG223_Test1\obj\Debug\CMPG223_Test1.pdb
+C:\Users\arman\Source\Repos\MrNiffler\CMPG223Project2021_CoffeeShop\CMPG223_Test1\CMPG223_Test1\obj\Debug\CMPG223_Test1.mainForm.resources
+C:\Users\arman\Source\Repos\MrNiffler\CMPG223Project2021_CoffeeShop\CMPG223_Test1\CMPG223_Test1\obj\Debug\CMPG223_Test1.waiterForm.resources
+C:\Users\arman\Source\Repos\MrNiffler\CMPG223Project2021_CoffeeShop\CMPG223_Test1\CMPG223_Test1\obj\Debug\CMPG223_Test1.ownerForm.resources
